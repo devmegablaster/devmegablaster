@@ -17,6 +17,9 @@
 
 -   ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/next._.js" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="next._.js" height="30" width="40" /></a>
