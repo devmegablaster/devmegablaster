@@ -18,6 +18,19 @@
 -   ⚡ Fun fact **The first computer “bug” was an actual real-life bug**
 
 <!--START_SECTION:waka-->
+
+```text
+From: 12 September 2022 - To: 13 September 2022
+
+Total Time: 2 hrs 7 mins
+
+JavaScript   1 hr 58 mins    ███████████████████████▒░   92.88 %
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+YAML         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+CSS          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.21 %
+XML          1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3 align="left">Connect with me:</h3>
