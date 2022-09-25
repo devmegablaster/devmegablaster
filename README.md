@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hey There!<br>Im Ojas Tyagi, a Second Year Undergrad at VIT Vellore!<br><br>🔭 I’m currently working on MicroServices<br>👯 I’m looking to collaborate on Any project ;)<br>🌱 I’m currently learning MicroServices<br>💬 Ask me about React JS
 
+[![](https://visitcount.itsvg.in/api?id=MEGA-BLASTER2004&icon=1&color=0)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/this.gameobject) 
@@ -37,4 +38,4 @@ XML          26 mins         ▒░░░░░░░░░░░░░░░░
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MEGA-BLASTER2004&icon=1&color=0)](https://visitcount.itsvg.in)
+
