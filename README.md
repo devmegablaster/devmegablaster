@@ -35,7 +35,7 @@ Java         29 mins         ▒░░░░░░░░░░░░░░░░
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+<img src="https://qph.cf2.quoracdn.net/main-qimg-8b270be34bb91151691ae58c4f90aa43" width="512px"/>
 
 ---
 
