@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey There!<br>Im Ojas Tyagi, a Second Year Undergrad at VIT Vellore!<br>👯 I’m looking to collaborate on Any project ;)<br>🌱 I’m currently learning Golang<br>💬 Ask me about React JS
+Hey There!<br>Im Ojas Tyagi, a Second Year Undergrad at VIT Vellore!<br>👯 I’m looking to collaborate on Any project ;)<br>🌱 I’m currently learning Golang<br>💬 Ask me about Next JS
 
 [![](https://visitcount.itsvg.in/api?id=MEGA-BLASTER2004&icon=1&color=0)](https://visitcount.itsvg.in)
 
