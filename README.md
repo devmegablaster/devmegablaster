@@ -17,9 +17,9 @@ Hey There!<br>Im Ojas Tyagi, a Second Year Undergrad at VIT Vellore!<br>👯 I�
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2022 - To: 15 February 2024
+From: 12 September 2022 - To: 16 February 2024
 
-Total Time: 877 hrs 52 mins
+Total Time: 877 hrs 53 mins
 
 JavaScript                 504 hrs 49 mins ██████████████▒░░░░░░░░░░   57.51 %
 TypeScript                 162 hrs 14 mins ████▓░░░░░░░░░░░░░░░░░░░░   18.48 %
