@@ -1,6 +1,6 @@
-🚀 Hey, I’m Ojas Tyagi!
-
 [![](https://visitcount.itsvg.in/api?id=MEGA-BLASTER2004&icon=1&color=0)](https://visitcount.itsvg.in)
+
+# 🚀 Hey, I’m Ojas Tyagi!
 
 # 🕘 Wakatime Stats:
 
