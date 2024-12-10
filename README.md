@@ -2,6 +2,17 @@
 
 # 🚀 Hey, I’m Ojas Tyagi!
 
+Welcome to my digital playground! I’m a programmer, a problem solver (which occasionally requires a computer), and a fan of all things fast and efficient. Based in Bangalore, India, I spend my days crafting systems, building tools, and figuring out better ways to solve interesting problems.
+
+## 🌌 Let’s Connect  
+
+I’m always up for collaborating, brainstorming, or just chatting about tech, life, or cool ideas. Here’s where you can find me:  
+
+- 🌐 [Website](https://megablaster.dev)  
+- 📧 [Email](mailto:ojas@megablaster.dev)  
+- 💻 [GitHub](https://github.com/devmegablaster)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ojastyagi)  
+
 # 🕘 Wakatime Stats:
 
 <!--START_SECTION:waka-->
