@@ -8,6 +8,7 @@ Welcome to my digital playground! I’m a programmer, a problem solver (which oc
 
 I’m always up for collaborating, brainstorming, or just chatting about tech, life, or cool ideas. Here’s where you can find me:  
 
+- **SSH** me a message @ `ssh -t bashform.me f devmegablaster`
 - 🌐 [Website](https://megablaster.dev)  
 - 📧 [Email](mailto:ojas@megablaster.dev)  
 - 💻 [GitHub](https://github.com/devmegablaster)  
