@@ -1,4 +1,4 @@
-[![](https://visitcount.itsvg.in/api?id=MEGA-BLASTER2004&icon=1&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=MEGA-BLASTER2004&icon=5&color=0)](https://visitcount.itsvg.in)
 
 # 🚀 Hey, I’m Ojas Tyagi!
 
