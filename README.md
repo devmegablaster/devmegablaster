@@ -21,15 +21,15 @@ I’m always up for collaborating, brainstorming, or just chatting about tech, l
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2022 - To: 02 January 2025
+From: 12 September 2022 - To: 04 January 2025
 
-Total Time: 1,476 hrs 8 mins
+Total Time: 1,485 hrs 4 mins
 
-JavaScript                 642 hrs 54 mins ███████████░░░░░░░░░░░░░░   43.55 %
-TypeScript                 297 hrs 56 mins █████░░░░░░░░░░░░░░░░░░░░   20.18 %
-Go                         202 hrs 3 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
-netrw                      51 hrs 19 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
-Markdown                   37 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
+JavaScript                 642 hrs 54 mins ██████████▓░░░░░░░░░░░░░░   43.29 %
+TypeScript                 299 hrs 21 mins █████░░░░░░░░░░░░░░░░░░░░   20.16 %
+Go                         208 hrs 54 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.07 %
+netrw                      51 hrs 26 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Markdown                   37 hrs 8 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
 ```
 
 <!--END_SECTION:waka-->
